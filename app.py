@@ -174,7 +174,7 @@ def main():
 
         # step 77777777777777777777777
 
-        a, b, c = st.columns([0.2, 0.6, 0.2])
+a, b, c = st.columns([0.2, 0.6, 0.2])
 
 with b:
     st.image("banner-picture.jpeg", use_column_width=True)
